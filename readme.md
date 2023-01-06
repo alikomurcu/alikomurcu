@@ -19,4 +19,4 @@ My e-mail address: <a title="e-mail" href="mailto:alikomurcu32430@gmail.com" tar
 
 <br/>
 
-![Snake animation](https://github.com/alikomucu/alikomucu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alikomurcu/alikomurcu/blob/output/github-contribution-grid-snake.svg)
