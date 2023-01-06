@@ -1,4 +1,4 @@
-<h3 align="center">My name is Mevlüt Çelik. I am an undergraduate student at METU and a Undergraduate Researcher at ENRG.</a> 
+<h3 align="center"Ali Komurcu</a> 
 </h3>
 <br/>
 
