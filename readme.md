@@ -1,28 +1,23 @@
-<h1 align="center">Hi, I'm Ali Kömürcü 👋</h1>
+<div align="center">
+  <h1>Ali Kömürcü</h1>
+  <p>Engineer • Learner • Builder</p>
+  <p>I enjoy working on computer graphics and rendering stuff.</p>
+  <p>
+    <a href="https://linkedin.com/in/alikomurcu" target="_blank">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:alikomurcu32430@gmail.com" target="_blank">Email</a>
+    &nbsp;·&nbsp;
+    <a href="https://alikomurcu.github.io" target="_blank">Website</a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=alikomurcu&color=lightgrey&style=flat-square" alt="Profile views badge" />
+</div>
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alikomurcu/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ali%20Kömürcü-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:alikomurcu32430@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/e--mail-alikomurcu32430@gmail.com-lightgrey?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=alikomurcu&show_icons=true&hide_border=true&theme=transparent" alt="Ali's GitHub stats" />
 </p>
 
 ---
-
-## 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=alikomurcu&color=lightgrey&style=for-the-badge)
-
----
-
-## ⚙️ GitHub Stats
-
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikomurcu&theme=dark&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/alikomurcu/alikomurcu/blob/output/github-contribution-grid-snake.svg)
