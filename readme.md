@@ -31,9 +31,9 @@ Building multi-agent orchestration systems, LLM pipelines, and production full-s
 
 **AI & Agents**
 <br>
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![LangChain](https://img.shields.io/badge/RAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
@@ -77,15 +77,6 @@ Building multi-agent orchestration systems, LLM pipelines, and production full-s
 | **SuitAI**        | AI-powered virtual try-on app on the Play Store · React Native + Firebase + diffusion models. | [Play Store](https://play.google.com/store/apps/details?id=com.suitai.tryon) |
 | **ENGROSS**       | Twitter NLP analysis with BERT embeddings, LDA topic modelling, Elasticsearch/Kibana.         | [Site](https://senior.ceng.metu.edu.tr/2023/engross/)                        |
 | **RenderForge**   | C++ / Vulkan renderer from scratch — SSAO, deferred shading, PBR.                             | [GitHub](https://github.com/alikomurcu/cg25-renderforge)                     |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alikomurcu&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="Ali's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikomurcu&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-</p>
 
 ---
 
