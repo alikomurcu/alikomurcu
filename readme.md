@@ -12,8 +12,6 @@ Building multi-agent orchestration systems, LLM pipelines, and production full-s
 <a href="https://github.com/alikomurcu">GitHub</a> ·
 <a href="mailto:alikomurcu32430@gmail.com">Email</a>
 
-<img src="https://komarev.com/ghpvc/?username=alikomurcu&color=blueviolet&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
